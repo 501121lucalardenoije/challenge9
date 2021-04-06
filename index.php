@@ -7,7 +7,15 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< Updated upstream
     <H1></H1>
+=======
+<<<<<<< HEAD
+    <H1>joa</H1>
+=======
+    <H1></H1>
+>>>>>>> e1f14532c5f8bfea15e051bedd810ad58e82f4e0
+>>>>>>> Stashed changes
 </body>
 </html>
 wtf
