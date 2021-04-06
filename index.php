@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Fraudstappen</H1>
+    <H1></H1>
 </body>
 </html>
 wtf
