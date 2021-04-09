@@ -3,7 +3,7 @@
     //nav
     define("NAV_HOME", "Home ");
     define("NAV_ABOUT", "About ");
-    define("NAV_CARS", "Cars"); 
+    define("NAV_CARS", "Vacancies"); 
         //about dd
             define("NAV_ABOUT_US", "About Us");
             define("NAV_FAQ", "FAQ");
