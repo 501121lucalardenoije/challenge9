@@ -53,7 +53,7 @@ require_once("assets/languages/lang.$lang.php")
     <?php include_once("assets/includes/Header.Area.php");?>
     <!-- ***** Header Area End ***** -->
 
-    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/banner-image-1-1920x500.jpg)">
+    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/DOC.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
@@ -75,7 +75,7 @@ require_once("assets/languages/lang.$lang.php")
                 <div class="col-lg-6 offset-lg-3">
                     <div class="section-heading">
                       <?php echo CONTACT_INFORMATION; ?>
-                        <img src="assets/images/line-dec.png" alt="waves">
+                        <img src="assets/images/line-dec-alt.jpg" alt="waves">
                         
                     </div>
                 </div>
@@ -85,7 +85,7 @@ require_once("assets/languages/lang.$lang.php")
                         <i class="fa fa-phone"></i>
                     </div>
 
-                    <h5><a href="#">+31 6 001 155 11</a></h5>
+                    <h5><a href="tel:+0615534443">Telefoneer ons</a></h5>
 
                     <br>
                 </div>
@@ -95,7 +95,7 @@ require_once("assets/languages/lang.$lang.php")
                         <i class="fa fa-envelope"></i>
                     </div>
 
-                    <h5><a href="#">info@Buurtzorg.nl</a></h5>
+                    <h5><a href="mailto:raphaelpedro8@gmail.com">Mail ons</a></h5>
 
                     <br>
                 </div>
@@ -124,7 +124,7 @@ require_once("assets/languages/lang.$lang.php")
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12">
-                    <div class="contact-form section-bg" style="background-image: url(assets/images/contact-1-720x480.jpg)">
+                    <div class="contact-form section-bg" style="background-image: url(assets/images/DOCWR.jpg)">
                         <form id="contact" action="" method="post">
                           <div class="row">
                             <div class="col-md-6 col-sm-12">
