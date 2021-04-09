@@ -56,15 +56,7 @@
     define("MODEL", "Model");
     define("BOUWJAAR", "Bouwjaar");
     define("REGISTRATIE", "Registratie");
-    define("KILOMETERSTAND", "Kilometerstand");
-    define("BRANDSTOF", "Brandstof");
-    define("MOTORVERMOGEN", "Motorvermogen");
-    define("KRACHT", "Kracht");
-    define("TRANSMISSIE", "Transmissie");
-    define("STOELEN", "Aantal Stoelen");
-    define("DEUREN", "Deuren");
-    define("KLEUREN", "Kleur");
-    define("HP", "pk");
+   
     
 
     //FAQ
