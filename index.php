@@ -60,7 +60,7 @@ require_once("assets/languages/lang.$lang.php")
     <!-- ***** Main Banner Area Start ***** -->
     <div class="main-banner" id="top">
         <video autoplay muted loop id="bg-video">
-            <source src="assets/images/video.mp4" type="video/mp4" />
+            <source src="assets/images/DOC.mp4" type="video/mp4" />
         </video>
 
         <div class="video-overlay header-text">
@@ -82,7 +82,7 @@ require_once("assets/languages/lang.$lang.php")
                 <div class="col-lg-6 offset-lg-3">
                     <div class="section-heading">
                         <?php echo FEATURED_CARS; ?>
-                        <img src="assets/images/line-dec.png" alt="">
+                        <img src="assets/images/line-dec-alt.jpg" alt="">
                         <p><?php echo FEATURED_CARS_TEXT; ?></p>
                     </div>
                 </div>
@@ -99,7 +99,7 @@ require_once("assets/languages/lang.$lang.php")
   
 
   
-    <section class="section section-bg" id="schedule" style="background-image: url(assets/images/about-fullscreen-1-1920x700.jpg)">
+    <section class="section section-bg" id="schedule" style="background-image: url(assets/images/DOCWR.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -111,12 +111,9 @@ require_once("assets/languages/lang.$lang.php")
                 </div>
             </div>
             <!--***** Dummytext Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="cta-content text-center">
-                        <p>Hoi1sicing elit. Labore deleniti voluptas enim! Provident consectetur id earum ducimus facilis, aspernatur hic, alias, harum rerum velit voluptas, voluptate enim! Eos, sunt, quidem.</p>
-
-                        <p>Hoi2 ipsum dolor sit amet, consectetur adipisicing elit. Iusto nulla quo cum officia laboriosam. Amet tempore, aliquid quia eius commodi, doloremque omnis delectus laudantium dolor reiciendis non nulla! Doloremque maxime quo eum in culpa mollitia similique eius doloribus voluptatem facilis! Voluptatibus, eligendi, illum. Distinctio, non!</p>
+            <div class="col-lg-10 offset-lg-1">
+                    <div class="cta-content">
+              <p>Wij bieden thuiszorg, wij zetten ook zetten ervaren verpleegkundigen en wijkziekenverzorgende in. Samen met diegene in nood zoeken zij samen naar een oplossing.</p>
                     </div>
                 </div>
             </div>
@@ -128,7 +125,7 @@ require_once("assets/languages/lang.$lang.php")
     <br>
 
     <!-- ***** Call to Action Start ***** -->
-    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/banner-image-1-1920x500.jpg)">
+    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/DOC.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
