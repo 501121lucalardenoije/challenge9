@@ -4,8 +4,8 @@
 
         $dbhost     = "localhost";
         $dbname     = "db_car_5";
-        $dbuser     = "challenge6";
-        $dbpass     = "challenge6";
+        $dbuser     = "lucal20021";
+        $dbpass     = "Lucal20021!";
         $conn       = "";          // connection string
         $pdo        = "";          // handler
         $charset = 'utf8mb4';

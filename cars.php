@@ -89,8 +89,8 @@ require_once("assets/languages/lang.$lang.php")
 
             <?php
     $servername = "localhost";
-    $username = "challenge6";
-    $password = "challenge6";
+    $username = "lucal20021";
+    $password = "Lucal20021!";
 
     //maken verbinding
 
