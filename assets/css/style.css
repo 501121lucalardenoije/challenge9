@@ -1002,22 +1002,22 @@ contact
 }
 
 .contact-form ::-webkit-input-placeholder { /* Edge */
-  color: #7a7a7a;
+  color: #000000;
 }
 
 .contact-form :-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: #7a7a7a;
+  color: #000000;
 }
 
 .contact-form ::placeholder {
-  color: #7a7a7a;
+  color: rgb(0, 0, 0);
 }
 
 .contact-form button {
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #ed563b;
+  background-color: #ddff33;
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -1029,7 +1029,7 @@ contact
 }
 
 .contact-form button:hover {
-  background-color: #f9735b;
+  background-color: #1F456E;
 }
 
 
@@ -1255,7 +1255,7 @@ responsive
   height: 72px;
   border-radius: 5px;
   color: rgb(0, 0, 0);
-  background-color: #ed563b;
+  background-color: #ddff33;
   font-size: 30px;
   margin: 0 auto 15px;
   display: flex;
@@ -1264,12 +1264,12 @@ responsive
 }
 
 a {
-  color: #ed563b;
+  color: #1F456E;
 }
 
 a:focus,
 a:hover {
-  color: #f9735b;
+  color: #DDFF33;
 }
 
 
