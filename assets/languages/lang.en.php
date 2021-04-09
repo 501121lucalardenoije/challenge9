@@ -14,22 +14,21 @@
 
     //index
 
-    define("VIDEO_CAPTION", "<h2>Best <em>car dealer</em> in Limburg!</h2>");
+    define("VIDEO_CAPTION", "<h2>Welcome to <em>Buurtzorg</em></h2>");
     define("CONTACT_US", "Contact Us");
 
 
 
-    define("FEATURED_CARS", "<h2>Featured <em>Cars</em></h2>");
-    define("FEATURED_CARS_TEXT", "These are our featured cars. ");
+    define("FEATURED_CARS", "<h2>Featured <em>vacancies</em></h2>");
+    define("FEATURED_CARS_TEXT", "Here you can find our current vacancies. ");
 
-    define("VIEW_CAR", "View Cars");
+    define("VIEW_CAR", "View vacancies");
 
-    define("READ_ABOUT_US", "<h2>Read <em>About Us</em></h2>");
-    define("READ_ABOUT_US_OPENING", "<p>We are Vistacars, located in Maastricht, Sittard and Heerlen. Every establishment is decorated the same, and we sell all occasions on this website.</p>");
+    define("READ_ABOUT_US", "<h2>What is<em> Buurtzorg?</em></h2>");
+    define("READ_ABOUT_US_OPENING", "<p>We are Buurtzorg, located in Maastricht.</p>");
 
-    define("SEND_US_A_MESSAGE", "<h2>Send us a <em>message</em></h2>");
-    define("SEND_US_A_MESSAGE_TEXT", "<p>Do you have a question? We are here for you. Send us a message if you have a question about our services or website.</p>");
-
+    define("SEND_US_A_MESSAGE", "<h2>Contact <em>us</em></h2>");
+    define("SEND_US_A_MESSAGE_TEXT", "<p>if you have a question feel free to contact us at any time. You can also contact us if you feel the need to make an appointement.</p>");
 
     //inlog
       
@@ -44,7 +43,7 @@
     define("CONTACT_US_2", "<h2>Feel free to <em>Contact Us</em></h2>");
     define("CONTACT_INFORMATION", "<h2>contact <em> information</em></h2>");
     define("CONTACT_LOCATIONS", "<h5>Locations: Maastricht, Sittard, Heerlen</h5>");
-    define("CONTACT_US_3", "<p>Below you can find a few methods to contact us.</p>");
+    define("CONTACT_US_3", "<p>Below you can find the methods to contact us.</p>");
 
 
 
