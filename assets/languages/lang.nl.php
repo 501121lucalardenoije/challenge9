@@ -3,7 +3,7 @@
     //nav
     define("NAV_HOME", "Home");
     define("NAV_ABOUT", "Over"); 
-    define("NAV_CARS", "Vacature's"); 
+    define("NAV_CARS", "Vacatures"); 
         //about dd
             define("NAV_ABOUT_US", "Over Ons");
             define("NAV_FAQ", "FAQ");
@@ -14,22 +14,20 @@
 
     //index
     
-    define("VIDEO_CAPTION", "<h2>Beste <em>Buurtzorg </em> in Limburg!</h2>");
+    define("VIDEO_CAPTION", "<h2>Welkom bij <em>Buurtzorg</em></h2>");
     define("CONTACT_US", "Contacteer Ons");
 
 
-    define("FEATURED_CARS", "<h2>Uitgelichte <em>Auto's</em></h2>");
-    define("FEATURED_CARS_TEXT", "Dit Zijn onze uitgelichte auto's");
+    define("FEATURED_CARS", "<h2>Uitgelichte <em>vacatures</em></h2>");
+    define("FEATURED_CARS_TEXT", "Hier vind je onze actuele vacatures");
    
-    define("VIEW_CAR", "Auto's Bekijken");
+    define("VIEW_CAR", "Bekijk vacatures");
 
-    define("READ_ABOUT_US", "<h2>Lees <em>Over Ons</em></h2>");
-    define("READ_ABOUT_US_OPENING", "<p>Wij zijn Buurtzorg, gevestigd in Maastricht, Sittard en Heerlen. Elke vestiging is hetzelfde ingericht en op onze website vind je de vacatures.</p>");
+    define("READ_ABOUT_US", "<h2>Wat is <em>Buurtzorg</em></h2>");
+    define("READ_ABOUT_US_OPENING", "<p>Wij zijn Buurtzorg, gevestigd in Maastricht.</p>");
 
-    define("SEND_US_A_MESSAGE", "<h2>Stuur ons een <em>bericht</em></h2>");
-    define("SEND_US_A_MESSAGE_TEXT", "<p>Heeft u een vraag? Wij zijn er voor u. Stuur ons gerust een bericht als u een vraag heeft over onze vacatures of website!</p>");
-
-
+    define("SEND_US_A_MESSAGE", "<h2>Contacteer <em>ons</em></h2>");
+    define("SEND_US_A_MESSAGE_TEXT", "<p>Als je een vraag hebt neem dan gerust contact met ons ons op. Ook voor het maken van een afspraken kan je met ons contact opnemen.</p>");
 
     //inlog
     define("FILL_IN_CREDENTIALS", "<p>Vul uw gegevens in om in te loggen.</p>");
