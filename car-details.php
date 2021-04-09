@@ -131,7 +131,7 @@ require_once("assets/languages/lang.$lang.php")
             <div class="row" id="tabs">
               <div class="col-lg-4">
                 <ul>
-                  <li><a href='#tabs-1'><i class="fa fa-cog"></i> Vehicle Specs</a></li>
+                  <li><a href='#tabs-1'><i class="fa fa-briefcase"></i> About this job</a></li>
                   <li><a href='#tabs-2'><i class="fa fa-info-circle"></i> Vehicle Description</a></li>
                   <li><a href='#tabs-3'><i class="fa fa-plus-circle"></i> Vehicle Extras</a></li>
                   <li><a href='#tabs-4'><i class="fa fa-phone"></i> Contact Details</a></li>
@@ -140,7 +140,7 @@ require_once("assets/languages/lang.$lang.php")
               <div class="col-lg-8">
                 <section class='tabs-content' style="width: 100%;">
                   <article id='tabs-1'>
-                    <h4>Vehicle Specs</h4>
+                    <h4>About this job</h4>
 
                     <div class="row">
                        <div class="col-sm-6">
@@ -176,44 +176,7 @@ require_once("assets/languages/lang.$lang.php")
                             <label>Mileage</label>
                        
                             <p><?php echo $row['kilometerstand'];?>km</p>
-                       </div>
-
-                       <div class="col-sm-6">
-                            <label><?php echo MOTORVERMOGEN;?></label>
-                       
-                            <p><?php echo $row['power']?>cc</p>
-                       </div>
-
-                       <div class="col-sm-6">
-                            <label><?php echo KRACHT;?></label>
-                       
-                            <p><?php echo $row['horsepower']; echo HP;?></p>
-                       </div>
-
-
-                       <div class="col-sm-6">
-                            <label><?php echo TRANSMISSIE;?></label>
-                       
-                            <p><?php echo $row['transmission'];?></p>
-                       </div>
-
-                       <div class="col-sm-6">
-                            <label><?php echo STOELEN;?></label>
-                       
-                            <p><?php echo $row['seats'];?></p>
-                       </div>
-
-                       <div class="col-sm-6">
-                            <label><?php echo DEUREN;?></label>
-                       
-                            <p><?php echo $row['doors'];?></p>
-                       </div>
-
-                       <div class="col-sm-6">
-                            <label><?php echo KLEUREN;?></label>
-                       
-                            <p><?php echo $row['color'];?></p>
-                       </div>
+                       </div>                                                               
                     </div>
                   </article>
                   <article id='tabs-2'>
