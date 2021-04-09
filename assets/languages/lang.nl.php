@@ -53,7 +53,7 @@
     define("CARS_UNDER_TITLE", "<p>Neem hier beneden een kijkje naar al onze auto's</p>");
 
     //car-details.php
-    define("TYPE", "Type");
+    define("TYPE", "Functie");
     define("MERK", "Merk");
     define("MODEL", "Model");
     define("BOUWJAAR", "Bouwjaar");
