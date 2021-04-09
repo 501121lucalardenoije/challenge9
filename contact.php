@@ -95,7 +95,7 @@ require_once("assets/languages/lang.$lang.php")
                         <i class="fa fa-envelope"></i>
                     </div>
 
-                    <h5><a href="#">info@vistacars.nl</a></h5>
+                    <h5><a href="#">info@Buurtzorg.nl</a></h5>
 
                     <br>
                 </div>
