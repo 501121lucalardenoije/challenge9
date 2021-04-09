@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <p>
-                        Copyright © 2021 L.R.D.L.R
+                        Copyright © 2021 L.R.R.D.L
                     </p>
                 </div>
             </div>
