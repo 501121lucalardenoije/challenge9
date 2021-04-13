@@ -83,7 +83,7 @@ require_once("assets/languages/lang.$lang.php")
                     <div class="cta-content">
                         <br>
                         <br>
-                        <h2><small><del><sup>€</sup><?php echo $row['price'];?></del></small> <em><sup>€</sup><?php echo $row['discountprice'];?></em></h2>
+                      
                         <p><?php echo $row['brand']  . " , " .  $row['model'] ;?></p>
                     </div>
                 </div>
@@ -132,8 +132,8 @@ require_once("assets/languages/lang.$lang.php")
               <div class="col-lg-4">
                 <ul>
                   <li><a href='#tabs-1'><i class="fa fa-briefcase"></i> About this job</a></li>
-                  <li><a href='#tabs-2'><i class="fa fa-info-circle"></i> Vehicle Description</a></li>
-                  <li><a href='#tabs-3'><i class="fa fa-plus-circle"></i> Vehicle Extras</a></li>
+                  <li><a href='#tabs-2'><i class="fa fa-info-circle"></i> Job Description</a></li>
+                  <li><a href='#tabs-3'><i class="fa fa-plus-circle"></i> Job Extras</a></li>
                   <li><a href='#tabs-4'><i class="fa fa-phone"></i> Contact Details</a></li>
                 </ul>
               </div>

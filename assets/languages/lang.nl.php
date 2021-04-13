@@ -47,8 +47,8 @@
     define("FORM_TITLE", "<h2>Admin <em>Form</em></h2>");
 
     //cars
-    define("CARS_TITLE", "<h2>Onze <em>Auto's</em></h2>");
-    define("CARS_UNDER_TITLE", "<p>Neem hier beneden een kijkje naar al onze auto's</p>");
+    define("CARS_TITLE", "<h2>Onze <em>Vacatures</em></h2>");
+    define("CARS_UNDER_TITLE", "<p>Neem hier beneden een kijkje naar al onze vacatures</p>");
 
     //car-details.php
     define("TYPE", "Functie");
