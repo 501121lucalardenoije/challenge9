@@ -9,7 +9,7 @@
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li><a href="index.php" class="active"><?php echo NAV_HOME; ?></a></li>
-                            <li><a href="cars.php"><?php echo NAV_CARS; ?></a></li>
+                            <li><a href="vacancy.php"><?php echo NAV_CARS; ?></a></li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?php echo NAV_ABOUT; ?></a>
                                 <div class="dropdown-menu">
