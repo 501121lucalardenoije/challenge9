@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?php
 
     function getdbconnection() {
@@ -28,3 +29,5 @@
     } //End function getdbconnection
 
     $pdo = getdbconnection(); //stopreturn value in nieuwe variable
+=======
+>>>>>>> Stashed changes
