@@ -24,7 +24,7 @@ require_once("assets/languages/lang.$lang.php")
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
-    <title>V!st@ CARS</title>
+    <title>Buurtzorg</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
@@ -35,26 +35,13 @@ require_once("assets/languages/lang.$lang.php")
     
     <body>
     
-   <!-- ***** Preloader Start ***** --> 
-   <div id="js-preloader" class="js-preloader">
-      <div class="preloader-inner">
-        <span class="dot"></span>
-        <div class="dots">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
-      </div>
-    </div>
-    <!-- ***** Preloader End ***** -->
-    
     
     <!-- ***** Header Area Start ***** -->
     <?php include_once("assets/includes/Header.Area.php");?>
     <!-- ***** Header Area End ***** -->
 
     <!-- ***** Call to Action Start ***** -->
-    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/banner-image-1-1920x500.jpg)">
+    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/DOC.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
@@ -68,49 +55,38 @@ require_once("assets/languages/lang.$lang.php")
             </div>
         </div>
     </section>
-    <!-- ***** Call to Action End ***** -->
 
-    <!-- ***** Fleet Starts ***** -->
-    <section class="section" id="trainers">
-        <div class="container">
-            <br>
-            <br>
-            <div class="contact-form">
-                <form action="#" id="contact">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="container">
+<center>
+    <H1>Verzorgende B</H1>
+    <div class="card">
+    <div class="card-body">
+</BR>
+    <H5>Vereisten: Algemene kennis hebben van het werken met ervaren verpleegkundigen. Er moet ervaring zijn in het oplossen van problemen onder druk</h5>
+</BR>
+<H5>Werkomstandigheden: Je werkt samen in een groep met anderen deze bevatten ervaren verpleegkundigen en A verzorgenden.</h5>
+</br>
+<H5>Locatie: Je werkt in twee locaties, je werkt op de Sibemaweg 20 en op de Arendstraat 12. Waar je werkt ligt aan de mening van je werkgever.</h5>
+</br>
+<h5>Salaris: Jij verdient als Verzorgende B het standaard salaris, dit valt tussen 2900 en 3500 euro.</h5>
+</br>
+<h5>Werkagenda: Jij werkt als Verzorgende B 5 dagen in de week met een vrije dag naar keuze.</h5>
+</br>
+<h5>Contractsoort: Je begint met een parttime contract, aan de hand van jouw prestaties kun je worden gepromoveerd naar fulltime Verzorgende B.</h5>
+</br>
+<h5>Om te solliciteren kun je op de knop onderaan klikken om naar het sollicitatieformulier te gaan. Deze vul je in en stuur je op naar ons je ontvangt ter bevestiging een bericht van ons dat jouw sollcitatie is aangekomen.</h5>
+</center>
+</div>
+</div>
 
-            
-                    </div>
-                    <br>
-                    <br>
-                </form>
-            </div>
+</br>
 
-            <?php
-    $servername = "localhost";
-    $username = "lucal20021";
-    $password = "Lucal20021!";
+<center>
+<button><a href="SDBF.php" class="button">Solliciteer</a></button>
+</center
 
-    //maken verbinding
 
-    $conn = new mysqli($servername, $username, $password);
-
-    if(isset($_POST['frmGegevens'])) {
-        //opslaan van de gegevens
-    
-        //print_r($_POST); //developers code!
-
-        include_once("assets/includes/connection.inc.php"); //conntectie DB
-        include_once("assets/includes/admin_verwerkform.inc.php");    //gegevens uit formulier verzamelen
-        include_once("assets/includes/adminform.inc.php");     //opslaan gegevens uit DB
-    } 
-    include_once("assets/includes/connection.inc.php"); //conntectie DB
-    include_once("assets/includes/select.inc.php"); //toon gegevens uit DB
-    ?>  
-
-        </div>
-    </section>
+      
     <!-- ***** Fleet Ends ***** -->
 
     <!-- FOOTER -->
