@@ -47,11 +47,7 @@
     define("FORM_TITLE", "<h2>Admin <em>Form</em></h2>");
 
     //cars
-<<<<<<< Updated upstream
     define("CARS_TITLE", "<h2>Onze <em>Vacatures</em></h2>");
-=======
-    define("CARS_TITLE", "<h2>Onze <em>vacatures</em></h2>");
->>>>>>> Stashed changes
     define("CARS_UNDER_TITLE", "<p>Neem hier beneden een kijkje naar al onze vacatures</p>");
 
     //car-details.php
