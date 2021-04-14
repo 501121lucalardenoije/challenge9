@@ -16,14 +16,11 @@ foreach($result as $key => $row) {
     echo "</div>"; //end image
     echo '<div class="down-content">';
     echo "<span>";
-    echo "<del><sup>€</sup>" . $row['price'] . "</del> &nbsp; <sup>€</sup>" . $row['discountprice'];
+  
     echo "</span>"; //einde prijs
     echo "<h4>" . $row['brand'] . "," . "<br>" . $row['model'] . "</h4>";// brand/type
-    echo "<p> <i class='fa fa-dashboard'></i> " . $row['kilometerstand'] . " km" . "&nbsp;&nbsp;&nbsp";
-    echo "<i class='fa fa-cube'></i> " . $row['bouwjaar'] . "&nbsp;&nbsp;&nbsp";
-    echo "<i class='fa fa-cog'></i> " . $row['transmission'] . "&nbsp;&nbsp;&nbsp </p>";
-    
-    echo '<ul class="social-icons"><li><a href="car-details.php?id='.$row['id'].'">+ View Car</a></li></ul>';
+   
+    echo '<ul class="social-icons"><li><a href="car-details.php?id='.$row['id'].'">+ View vacancy</a></li></ul>';
     echo "</div>";
     echo "</div>";
     echo "</div>";

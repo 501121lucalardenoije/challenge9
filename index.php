@@ -90,7 +90,7 @@ require_once("assets/languages/lang.$lang.php")
             <br>
             <?php ?>
             <div class="main-button text-center">
-                <a href="cars.php"><?php echo VIEW_CAR; ?></a>
+                <a href="vacancy.php"><?php echo VIEW_CAR; ?></a>
             </div>
         </div>
     </section>
