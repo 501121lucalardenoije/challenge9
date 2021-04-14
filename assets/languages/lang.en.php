@@ -42,7 +42,7 @@
     //contact
     define("CONTACT_US_2", "<h2>Feel free to <em>Contact Us</em></h2>");
     define("CONTACT_INFORMATION", "<h2>contact <em> information</em></h2>");
-    define("CONTACT_LOCATIONS", "<h5>Locations: Maastricht, Sittard, Heerlen</h5>");
+    define("CONTACT_LOCATIONS", "<h5>Location: Sibemaweg 20, Maastricht</h5>");
     define("CONTACT_US_3", "<p>Below you can find the methods to contact us.</p>");
 
 
@@ -53,36 +53,22 @@
 
 
     //cars
-    define("CARS_TITLE", "<h2>Our <em>Cars</em></h2>");
-    define("CARS_UNDER_TITLE", "<p>Take a look below to see our cars</p>");
+    define("CARS_TITLE", "<h2>More <em>Information</em></h2>");
+    define("CARS_UNDER_TITLE", "<p>Beneath you'll find all the information you need for your selected function.</p>");
 
     //car-details.php
-    define("TYPE", "Type");
-    define("MERK", "Brand");
-    define("MODEL", "Model");
-    define("BOUWJAAR", "Construction Year");
-    define("REGISTRATIE", "First Registration");
-    define("KILOMETERSTAND", "Mileage");
-    define("BRANDSTOF", "Fuel");
-    define("MOTORVERMOGEN", "Engine Size");
-    define("KRACHT", "Power");
-    define("TRANSMISSIE", "Gearbox");
-    define("STOELEN", "Number Of Seats");
-    define("DEUREN", "Doors");
-    define("KLEUREN", "Color");
-    define("HP", "hp");
-
+ 
     //FAQ
     define("FAQ_READ", "<h2>Read our <em>FAQ</em></h2>");
     define("FAQ_INFO", "<p>Below you can find the answers to our FAQ.</p>");
     define("FAQ_Q1", "<h4><i class='fa fa-question-circle'></i> How can you send us a message?</h4>");
     define("FAQ_A1", "<p> Go to the button contact, then you can choose whether you want to call or email.</p>");  
-    define("FAQ_Q2", "<h4><i class='fa fa-question-circle'></i> Where can you find more information about the cars?</h4>");
-    define("FAQ_A2", "<p> If you are on the home page you can scroll down or on the car page itself and there you will find pictures of the cars that we have and then if you click on them you will see further information.</p>");   
+    define("FAQ_Q2", "<h4><i class='fa fa-question-circle'></i> Where can you find more information about the vacancies?</h4>");
+    define("FAQ_A2", "<p> If you are on the home page you can scroll down or go to vacancy page itself and there you will find pictures of the vacancies we currently offer and then if you click on them you will see a brief summary of the job in question.</p>");   
     define("FAQ_Q3", "<h4><i class='fa fa-question-circle'></i> How to change the language?</h4>");
     define("FAQ_A3", "<p> By going to the button: language at the top of the website.</p>");  
-    define("FAQ_Q4", "<h4><i class='fa fa-question-circle'></i> Where to find the vehicle specifications?</h4>");
-    define("FAQ_A4", "<p> By pressing on your chosen car, and there you'll find the option vehicle specifications.</p>");
+    define("FAQ_Q4", "<h4><i class='fa fa-question-circle'></i> Where to find the vacancy requirements?</h4>");
+    define("FAQ_A4", "<p> By pressing on your chosen vacancy, you'll automatically get greeted by the job requirements.</p>");
 
     //offerte
     define("OFFERTE_AANVRAAG", "<h2>quotation<em>application</em></h2>");
@@ -90,6 +76,14 @@
     define("OFFERTE_TITLE", "Request your car quotation!");
     define("OFFERTE_NAAM", "Car name");
     define("SEND", "Send");
+
+    //Sollicitatie
+    define("EMP_READ", "<H2>  <em>Vacancy form</EM></H2>");
+    define("EMP_INFO", "<P>Below you'll be able to fill in your vacancyform.</p>" );
+
+    //Vacatures
+    define("VAC_READ", "<h2>Current<em> Vacancies</em></h2>");
+    define("VAC_INFO", "<p>Below you can find the vacancies we currently offer.</em><h2>");
 
 
     
