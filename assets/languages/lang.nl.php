@@ -47,7 +47,11 @@
     define("FORM_TITLE", "<h2>Admin <em>Form</em></h2>");
 
     //cars
+<<<<<<< Updated upstream
     define("CARS_TITLE", "<h2>Onze <em>Vacatures</em></h2>");
+=======
+    define("CARS_TITLE", "<h2>Onze <em>vacatures</em></h2>");
+>>>>>>> Stashed changes
     define("CARS_UNDER_TITLE", "<p>Neem hier beneden een kijkje naar al onze vacatures</p>");
 
     //car-details.php
@@ -61,16 +65,16 @@
 
     //FAQ
 
-    define("FAQ_READ", "<h2>lees onze <em>FAQ</em></h2>");
-    define("FAQ_INFO", "<p>hieronder kan u onze FAQ vinden.</p>");
-    define("FAQ_Q1", "<h4><i class='fa fa-question-circle'></i> hoe kan je ons een bericht sturen?</h4>");
+    define("FAQ_READ", "<h2>Lees onze <em>FAQ</em></h2>");
+    define("FAQ_INFO", "<p>Hieronder kan u onze FAQ vinden.</p>");
+    define("FAQ_Q1", "<h4><i class='fa fa-question-circle'></i> Hoe kan je ons een bericht sturen?</h4>");
     define("FAQ_A1", "<p> Ga naar de knop contact, vervolgens kun je kiezen of je wilt bellen of mailen.</p>");  
-    define("FAQ_Q2", "<h4><i class='fa fa-question-circle'></i> waar vindt je meer informatie over de vacatures?</h4>");
-    define("FAQ_A2", "<p> Als je op de homepagina bent kun je naar onder scrollen of op de auto pagina zelf en daar daar vindt je foto's van de Vacatures die wij hebben en als je er vervolgens op klikt dan zie je verdere informatie.</p>");   
+    define("FAQ_Q2", "<h4><i class='fa fa-question-circle'></i> Waar vind je meer informatie over de vacatures?</h4>");
+    define("FAQ_A2", "<p> Als je op de homepagina bent kun je naar onder scrollen of je kunt naar de vacature pagina zelf gaan en daar daar vindt je foto's van de Vacatures die wij hebben en als je er vervolgens op klikt dan zie je verdere informatie.</p>");   
     define("FAQ_Q3", "<h4><i class='fa fa-question-circle'></i> Hoe verander je de taal?</h4>");
     define("FAQ_A3", "<p> Door naar de knop: taal bovenaan de website te gaan.</p>");  
-    define("FAQ_Q4", "<h4><i class='fa fa-question-circle'></i> Waar vind ik de voertuigspecificaties?</h4>");
-    define("FAQ_A4", "<p> Door op je gekozen auto te drukken, en daar vind je dan de optie voertuigsecificaties.</p>");
+    define("FAQ_Q4", "<h4><i class='fa fa-question-circle'></i> Waar vind ik de baanvereisten?</h4>");
+    define("FAQ_A4", "<p> Door op je gekozen vacature te drukken, vind je de baanvereisten.</p>");
 
     //offerte
     define("OFFERTE_AANVRAAG", "<h2>Offerte<em>Aanvraag</em></h2>");
