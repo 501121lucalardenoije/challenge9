@@ -234,7 +234,7 @@ require_once("assets/languages/lang.$lang.php")
                             <p><a href="#">info@Buurtzorg.nl</a></p>
                         </div>
                         <div class="main-button text-center">
-                <a href="mailform1.php"><?php echo Vacature; ?></a>
+                <a href="mailform1.php"><?php echo OFFERTE_TITLE; ?></a>
             </div>
                     </div>
                   </article>

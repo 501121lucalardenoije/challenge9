@@ -73,10 +73,10 @@
     define("FAQ_A4", "<p> Door op je gekozen vacature te drukken, vind je de baanvereisten.</p>");
 
     //offerte
-    define("OFFERTE_AANVRAAG", "<h2>Offerte<em>Aanvraag</em></h2>");
+    define("OFFERTE_AANVRAAG", "<h2>Vacature<em></em></h2>");
     define("OFFERTE", "<h5>Offerte</h5>");
-    define("OFFERTE_TITLE", "Vraag je auto offerte aan!");
-    define("OFFERTE_NAAM", "auto naam");
+    define("OFFERTE_TITLE", "Vul de Vacature in");
+    define("OFFERTE_NAAM", "Email");
     define("SEND", "Verstuur");
     
 

@@ -24,7 +24,7 @@ require_once("assets/languages/lang.$lang.php")
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
-    <title>V!st@ CARS</title>
+    <title>Buurtzorg</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
@@ -86,7 +86,7 @@ require_once("assets/languages/lang.$lang.php")
           //Het bericht wat wordt verstuurd, kan je dus helemaal aanpassen zoals je wilt
           $message = "Hello " . $fullname . ".<br>In this mail you can find the proposal you requested.<br>Thank you for using V!ST@CARS. ";
 
-          //Van welk Mail adress de mail verstuurd wordt en de naam, test@brunovanleeuwen.nl dus veranderen naar een mail van jou domein
+          //Van welk Mail adress de mail verstuurd wordt en de naam, dus veranderen naar een mail van jou domein
           $headers = "From: V!ST@CARS <bestel.lucaportfolio.nl>\r\n";
 
           //Maakt het bericht html
